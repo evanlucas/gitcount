@@ -1,0 +1,19 @@
+{
+  "name": "gitcount",
+  "version": "0.0.1",
+  "description": "Simple utility to count additions and deletions for the past day",
+  "main": "gitcount.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com/evanlucas/gitcount.git"
+  },
+  "author": "Evan Lucas",
+  "license": "GPL",
+  "dependencies": {
+    "colors": "~0.6.0-1",
+    "cli-table": "~0.2.0"
+  }
+}
