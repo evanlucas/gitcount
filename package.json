@@ -1,13 +1,13 @@
 {
   "name": "gitcount",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Simple utility to count additions and deletions for the past day",
   "main": "gitcount.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-	"bin": {
-		"gitcount": "gitcount.js"
+  "bin": {
+    "gitcount": "gitcount.js"
   },
   "repository": {
     "type": "git",
