@@ -6,6 +6,9 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+	"bin": {
+		"gitcount": "gitcount.js"
+  },
   "repository": {
     "type": "git",
     "url": "git@github.com/evanlucas/gitcount.git"
